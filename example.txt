@@ -1,0 +1,3 @@
+cat employee.txt | grep sal | awk -F ":" '{print $2}'A regular expression (shortened as 
+regex or regexp; sometimes referred to as rational expression ) is a sequence of 
+characters that specifies a search pattern in text
