@@ -1,0 +1,27 @@
+total 0
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana1.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana10.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana11.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana12.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana13.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana14.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana15.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana16.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana17.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana18.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana19.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana2.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana20.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana21.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana22.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana23.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana24.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana25.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana3.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana4.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana5.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana6.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana7.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana8.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 dragana9.txt
+-rw-r--r--  1 root  staff  0 Mar  3 10:37 filelist.txt
